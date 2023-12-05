@@ -6,17 +6,32 @@
   "hideUnresolved": false,
   "showOrphans": true,
   "collapse-color-groups": true,
-  "colorGroups": [],
+  "colorGroups": [
+    {
+      "query": "path:\"Fedor_Rozhin/Математика/геометрия теория\"  ",
+      "color": {
+        "a": 1,
+        "rgb": 14048348
+      }
+    },
+    {
+      "query": "path:Fedor_Rozhin/Книги  ",
+      "color": {
+        "a": 1,
+        "rgb": 9730370
+      }
+    }
+  ],
   "collapse-display": true,
   "showArrow": false,
-  "textFadeMultiplier": 0,
+  "textFadeMultiplier": -1.8,
   "nodeSizeMultiplier": 1,
   "lineSizeMultiplier": 1,
-  "collapse-forces": true,
-  "centerStrength": 0.518713248970312,
-  "repelStrength": 10,
+  "collapse-forces": false,
+  "centerStrength": 0.674459011214658,
+  "repelStrength": 20,
   "linkStrength": 1,
-  "linkDistance": 250,
-  "scale": 0.34896752298627215,
-  "close": true
+  "linkDistance": 176,
+  "scale": 0.34896752298627143,
+  "close": false
 }
