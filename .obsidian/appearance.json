@@ -1,6 +1,7 @@
 {
-  "accentColor": "",
+  "accentColor": "#8456f0",
   "cssTheme": "Typewriter",
   "theme": "system",
-  "baseFontSize": 13
+  "baseFontSize": 19,
+  "translucency": false
 }
