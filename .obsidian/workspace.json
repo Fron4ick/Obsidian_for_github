@@ -8,11 +8,15 @@
         "type": "tabs",
         "children": [
           {
-            "id": "2a93cecb49ad7777",
+            "id": "5b2d308ab42cc09d",
             "type": "leaf",
             "state": {
-              "type": "graph",
-              "state": {}
+              "type": "markdown",
+              "state": {
+                "file": "Проект/Фёдор/Алгоритмы управления беспилотными летательными аппаратами.md",
+                "mode": "source",
+                "source": true
+              }
             }
           }
         ],
@@ -66,7 +70,7 @@
       }
     ],
     "direction": "horizontal",
-    "width": 405.5072784423828
+    "width": 200
   },
   "right": {
     "id": "7416caccc95a84cb",
@@ -82,6 +86,7 @@
             "state": {
               "type": "backlink",
               "state": {
+                "file": "Проект/Фёдор/Алгоритмы управления беспилотными летательными аппаратами.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -98,6 +103,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
+                "file": "Проект/Фёдор/Алгоритмы управления беспилотными летательными аппаратами.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -119,7 +125,9 @@
             "type": "leaf",
             "state": {
               "type": "outline",
-              "state": {}
+              "state": {
+                "file": "Проект/Фёдор/Алгоритмы управления беспилотными летательными аппаратами.md"
+              }
             }
           },
           {
@@ -152,13 +160,15 @@
       "canvas:Создать новый холст": false,
       "daily-notes:Сегодняшняя заметка": false,
       "templates:Вставить шаблон": false,
-      "command-palette:Открыть палитру команд": false,
-      "table-editor-obsidian:Advanced Tables Toolbar": false,
-      "obsidian-excalidraw-plugin:Create new drawing": false
+      "command-palette:Открыть палитру команд": false
     }
   },
-  "active": "2a93cecb49ad7777",
+  "active": "5b2d308ab42cc09d",
   "lastOpenFiles": [
+    "Проект/Фёдор/Алгоритмы управления беспилотными летательными аппаратами.md",
+    "Проект/Фёдор",
+    "Проект",
+    "Fedor_Rozhin/Drawing 2023-12-11 08.52.16.excalidraw.md",
     "Fedor_Rozhin/Математика/геометрия теория/Аксиома1.md",
     "Fedor_Rozhin/Математика/геометрия теория/10классс.md",
     "Fedor_Rozhin/Математика/геометрия теория/Пар 1 - параллельность/Теорема две ║ прямые и плоскость одной из них/Теорема две ║ прямые и плоскость одной из них.md",
@@ -187,11 +197,8 @@
     "картинки/Pasted image 20231204224007.png",
     "картинки",
     "Fedor_Rozhin/Математика/геометрия теория/Пар 1 - параллельность",
-    "Без названия.md",
     "Fedor_Rozhin/Математика/геометрия теория/Теорема 1",
-    "Fedor_Rozhin/Математика/геометрия теория/Теорема о двух пересек плоскостях",
     "Fedor_Rozhin/Математика/геометрия теория/Аксиома2.md",
-    "Fedor_Rozhin/Математика/геометрия теория",
     "Fedor_Rozhin/Натальная карта 04.12.2023.md",
     "картинки/Pasted image 20231204223912.png",
     "картинки/Pasted image 20231204222939.png",
@@ -200,8 +207,6 @@
     "картинки/Pasted image 20231204220428.png",
     "картинки/Pasted image 20231204220338.png",
     "Fedor_Rozhin/Книги/Фёдор Михайлович Достоевский/Преступление и наказание/Персонажи/Раскольников Радион Романович.md",
-    "Fedor_Rozhin/Книги/Фёдор Михайлович Достоевский/Преступление и наказание/Чит. Преступление и наказание.md",
-    "Fedor_Rozhin/Книги/Фёдор Михайлович Достоевский/Преступление и наказание/Сценарий.md",
     "Fedor_Rozhin/Математика/Pasted Image 20231120194959_111.jpg"
   ]
 }
