@@ -1,1 +1,9 @@
-[]
+[
+  "table-editor-obsidian",
+  "calendar",
+  "code-emitter",
+  "obsidian-excalidraw-plugin",
+  "obsidian-git",
+  "obsidian-jupyter",
+  "obsidian-icon-folder"
+]
