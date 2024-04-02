@@ -15,7 +15,7 @@
               "state": {
                 "file": "Fedor_Rozhin/Drawing 2023-12-11.md",
                 "mode": "source",
-                "source": true
+                "source": false
               }
             }
           }
@@ -86,6 +86,7 @@
             "state": {
               "type": "backlink",
               "state": {
+                "file": "Fedor_Rozhin/Drawing 2023-12-11.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -102,6 +103,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
+                "file": "Fedor_Rozhin/Drawing 2023-12-11.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -123,7 +125,9 @@
             "type": "leaf",
             "state": {
               "type": "outline",
-              "state": {}
+              "state": {
+                "file": "Fedor_Rozhin/Drawing 2023-12-11.md"
+              }
             }
           },
           {
@@ -157,10 +161,11 @@
       "daily-notes:Сегодняшняя заметка": false,
       "templates:Вставить шаблон": false,
       "command-palette:Открыть палитру команд": false,
-      "table-editor-obsidian:Advanced Tables Toolbar": false
+      "table-editor-obsidian:Advanced Tables Toolbar": false,
+      "obsidian-excalidraw-plugin:Create new drawing": false
     }
   },
-  "active": "99db455472f378e6",
+  "active": "5b2d308ab42cc09d",
   "lastOpenFiles": [
     "Fedor_Rozhin/Drawing 2023-12-11.md",
     "Fedor_Rozhin/Математика/геометрия теория/Аксиома3.md",
