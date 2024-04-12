@@ -23,7 +23,7 @@
     "iconsBackgroundCheckEnabled": true,
     "iconsInNotesEnabled": true,
     "iconsInLinksEnabled": true,
-    "iconIdentifier": ":"
-  },
-  "Fedor_Rozhin/Книги": "RiBookFill"
+    "iconIdentifier": ":",
+    "debugMode": false
+  }
 }

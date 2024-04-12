@@ -13,24 +13,13 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Fedor_Rozhin/Drawing 2023-12-11.md",
+                "file": "F.md",
                 "mode": "source",
-                "source": false
-              }
-            }
-          },
-          {
-            "id": "006acad62d76a4ad",
-            "type": "leaf",
-            "state": {
-              "type": "release-notes",
-              "state": {
-                "currentVersion": "1.5.12"
+                "source": true
               }
             }
           }
         ],
-        "currentTab": 1,
         "stacked": true
       }
     ],
@@ -77,11 +66,12 @@
               "state": {}
             }
           }
-        ]
+        ],
+        "currentTab": 1
       }
     ],
     "direction": "horizontal",
-    "width": 200
+    "width": 219.5072784423828
   },
   "right": {
     "id": "7416caccc95a84cb",
@@ -97,7 +87,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Fedor_Rozhin/Drawing 2023-12-11.md",
+                "file": "F.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -114,7 +104,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Fedor_Rozhin/Drawing 2023-12-11.md",
+                "file": "F.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -137,7 +127,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Fedor_Rozhin/Drawing 2023-12-11.md"
+                "file": "F.md"
               }
             }
           },
@@ -162,7 +152,8 @@
       }
     ],
     "direction": "horizontal",
-    "width": 559.5
+    "width": 200,
+    "collapsed": true
   },
   "left-ribbon": {
     "hiddenItems": {
@@ -176,8 +167,11 @@
       "obsidian-excalidraw-plugin:Create new drawing": false
     }
   },
-  "active": "006acad62d76a4ad",
+  "active": "5b2d308ab42cc09d",
   "lastOpenFiles": [
+    "Без названия.canvas",
+    "F.md",
+    "2024-04-12.md",
     "Fedor_Rozhin/Drawing 2023-12-11.md",
     "Fedor_Rozhin/Математика/геометрия теория/Аксиома3.md",
     "Fedor_Rozhin/Математика/геометрия теория/Аксиома1.md",
@@ -212,14 +206,12 @@
     "картинки",
     "Fedor_Rozhin/Математика/геометрия теория/Пар 1 - параллельность",
     "Fedor_Rozhin/Математика/геометрия теория/Аксиома2.md",
-    "Fedor_Rozhin/Натальная карта 04.12.2023.md",
     "картинки/Pasted image 20231204223912.png",
     "картинки/Pasted image 20231204222939.png",
     "картинки/Pasted image 20231204221624.png",
     "картинки/Pasted image 20231204220951.png",
     "картинки/Pasted image 20231204220428.png",
     "картинки/Pasted image 20231204220338.png",
-    "Fedor_Rozhin/Книги/Фёдор Михайлович Достоевский/Преступление и наказание/Персонажи/Раскольников Радион Романович.md",
     "Fedor_Rozhin/Математика/Pasted Image 20231120194959_111.jpg"
   ]
 }
