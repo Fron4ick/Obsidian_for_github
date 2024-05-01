@@ -30,6 +30,7 @@
             }
           }
         ],
+        "currentTab": 1,
         "stacked": true
       }
     ],
@@ -97,7 +98,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "F.md",
+                "file": "Excalidraw/Drawing 2024-04-17 21.15.01.excalidraw.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -114,7 +115,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "F.md",
+                "file": "Excalidraw/Drawing 2024-04-17 21.15.01.excalidraw.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -137,7 +138,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "F.md"
+                "file": "Excalidraw/Drawing 2024-04-17 21.15.01.excalidraw.md"
               }
             }
           },
@@ -177,10 +178,10 @@
       "obsidian-excalidraw-plugin:Create new drawing": false
     }
   },
-  "active": "5b2d308ab42cc09d",
+  "active": "c5092d82ec614b57",
   "lastOpenFiles": [
-    "Excalidraw/Drawing 2024-04-17 21.15.01.excalidraw.md",
     "F.md",
+    "Excalidraw/Drawing 2024-04-17 21.15.01.excalidraw.md",
     "Excalidraw",
     "Без названия.canvas",
     "2024-04-12.md",
