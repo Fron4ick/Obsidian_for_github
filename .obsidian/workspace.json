@@ -18,6 +18,14 @@
                 "source": true
               }
             }
+          },
+          {
+            "id": "9ab3e55e3f8b436d",
+            "type": "leaf",
+            "state": {
+              "type": "graph",
+              "state": {}
+            }
           }
         ]
       }
@@ -146,8 +154,7 @@
               "state": {}
             }
           }
-        ],
-        "currentTab": 4
+        ]
       }
     ],
     "direction": "horizontal",
