@@ -15,7 +15,7 @@
               "state": {
                 "file": "Fedor_Rozhin/Математика/Билеты по геометрии 2024.md",
                 "mode": "source",
-                "source": false
+                "source": true
               }
             }
           }
@@ -69,7 +69,8 @@
       }
     ],
     "direction": "horizontal",
-    "width": 331.5072784423828
+    "width": 200,
+    "collapsed": true
   },
   "right": {
     "id": "7416caccc95a84cb",
@@ -150,7 +151,7 @@
       }
     ],
     "direction": "horizontal",
-    "width": 457.5
+    "width": 391.5
   },
   "left-ribbon": {
     "hiddenItems": {
@@ -166,8 +167,8 @@
   },
   "active": "d2adca53b0f2a7ad",
   "lastOpenFiles": [
-    "conflict-files-obsidian-git.md",
     "Fedor_Rozhin/Математика/Билеты по геометрии 2024.md",
+    "conflict-files-obsidian-git.md",
     "Fedor_Rozhin/Математика/геометрия теория/Пар 1 - параллельность/Лемма пересечении двух прямых и плоскости/лемма4.md",
     "Fedor_Rozhin/Математика/Билеты по геометрии 2024",
     "F.md",
