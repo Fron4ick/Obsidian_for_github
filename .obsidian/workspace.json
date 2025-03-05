@@ -1,0 +1,217 @@
+{
+  "main": {
+    "id": "a944ba31560e349a",
+    "type": "split",
+    "children": [
+      {
+        "id": "ec6dffbec67421f6",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "d2adca53b0f2a7ad",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "Fedor_Rozhin/Математика/Билеты по геометрии 2024.md",
+                "mode": "source",
+                "source": true
+              }
+            }
+          }
+        ]
+      }
+    ],
+    "direction": "vertical"
+  },
+  "left": {
+    "id": "91dc4ddace04581d",
+    "type": "split",
+    "children": [
+      {
+        "id": "cd47c35d2a1bd81a",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "46ac4704cb726e8b",
+            "type": "leaf",
+            "state": {
+              "type": "file-explorer",
+              "state": {
+                "sortOrder": "byCreatedTimeReverse"
+              }
+            }
+          },
+          {
+            "id": "8d337c31fe477971",
+            "type": "leaf",
+            "state": {
+              "type": "search",
+              "state": {
+                "query": "",
+                "matchingCase": true,
+                "explainSearch": false,
+                "collapseAll": false,
+                "extraContext": false,
+                "sortOrder": "alphabetical"
+              }
+            }
+          },
+          {
+            "id": "05542b2897741f3d",
+            "type": "leaf",
+            "state": {
+              "type": "bookmarks",
+              "state": {}
+            }
+          }
+        ]
+      }
+    ],
+    "direction": "horizontal",
+    "width": 465.5072784423828
+  },
+  "right": {
+    "id": "7416caccc95a84cb",
+    "type": "split",
+    "children": [
+      {
+        "id": "152259c1d0da9043",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "b80f461091246fed",
+            "type": "leaf",
+            "state": {
+              "type": "backlink",
+              "state": {
+                "file": "Fedor_Rozhin/Математика/Билеты по геометрии 2024.md",
+                "collapseAll": false,
+                "extraContext": false,
+                "sortOrder": "alphabetical",
+                "showSearch": false,
+                "searchQuery": "",
+                "backlinkCollapsed": false,
+                "unlinkedCollapsed": true
+              }
+            }
+          },
+          {
+            "id": "ae894fd5dc05daf2",
+            "type": "leaf",
+            "state": {
+              "type": "outgoing-link",
+              "state": {
+                "file": "Fedor_Rozhin/Математика/Билеты по геометрии 2024.md",
+                "linksCollapsed": false,
+                "unlinkedCollapsed": true
+              }
+            }
+          },
+          {
+            "id": "c768e45b9d929222",
+            "type": "leaf",
+            "state": {
+              "type": "tag",
+              "state": {
+                "sortOrder": "frequency",
+                "useHierarchy": true
+              }
+            }
+          },
+          {
+            "id": "d88d0347407a9d8a",
+            "type": "leaf",
+            "state": {
+              "type": "outline",
+              "state": {
+                "file": "Fedor_Rozhin/Математика/Билеты по геометрии 2024.md"
+              }
+            }
+          },
+          {
+            "id": "f566b0a0815d23c5",
+            "type": "leaf",
+            "state": {
+              "type": "calendar",
+              "state": {}
+            }
+          },
+          {
+            "id": "99db455472f378e6",
+            "type": "leaf",
+            "state": {
+              "type": "advanced-tables-toolbar",
+              "state": {}
+            }
+          }
+        ],
+        "currentTab": 1
+      }
+    ],
+    "direction": "horizontal",
+    "width": 607.5
+  },
+  "left-ribbon": {
+    "hiddenItems": {
+      "switcher:Меню быстрого перехода": false,
+      "graph:Граф": false,
+      "canvas:Создать новый холст": false,
+      "daily-notes:Сегодняшняя заметка": false,
+      "templates:Вставить шаблон": false,
+      "command-palette:Открыть палитру команд": false,
+      "table-editor-obsidian:Advanced Tables Toolbar": false,
+      "obsidian-excalidraw-plugin:Create new drawing": false
+    }
+  },
+  "active": "d2adca53b0f2a7ad",
+  "lastOpenFiles": [
+    "рис 13.png",
+    "Fedor_Rozhin/Математика/Билеты по геометрии 2024.md",
+    "Obsidian_for_github.rar",
+    "врobsidian.zip",
+    "рис 63.png",
+    "рис 62.png",
+    "рис 61.png",
+    "рис 53.png",
+    "рис 50.png",
+    "рис 48.png",
+    "рис 82.png",
+    "рис последний.png",
+    "рис 80.png",
+    "рис 47.png",
+    "Fedor_Rozhin/Drawing 2023-12-11 08.52.16.excalidraw.md",
+    "Без названия.canvas",
+    "F.md",
+    "Fedor_Rozhin/Математика/геометрия теория/Теорема 1/Теорема1.md",
+    "conflict-files-obsidian-git.md",
+    "Fedor_Rozhin/Математика/геометрия теория/Пар 1 - параллельность/Лемма пересечении двух прямых и плоскости/лемма4.md",
+    "Fedor_Rozhin/Математика/Билеты по геометрии 2024",
+    "Excalidraw/Drawing 2024-04-17 21.15.01.excalidraw.md",
+    "Fedor_Rozhin/Математика/геометрия теория/Пар 1 - параллельность/определение ║ плоскости и прямой/Теорема две ║ прямые и плоскость одной из них/Свойства две ║ прямые и плоскость одной из них.md",
+    "Fedor_Rozhin/Математика/геометрия теория/Пар 1 - параллельность/определение ║ плоскости и прямой/Теорема две ║ прямые и плоскость одной из них/Теоремадве║прямыеиплоскостьоднойизних.md",
+    "Fedor_Rozhin/Математика/геометрия теория/Пар 1 - параллельность/определение ║ плоскости и прямой/Теорема две ║ прямые и плоскость одной из них/Теорема две ║ прямые и плоскость одной из них.md",
+    "Fedor_Rozhin/Математика/геометрия теория/Пар 1 - параллельность/Теорема о третьей прямой/Теорема о третьей прямой.md",
+    "Fedor_Rozhin/Математика/геометрия теория/Пар 1 - параллельность/Теорема о третьей прямой/теорема5.md",
+    "Fedor_Rozhin/Математика/геометрия теория/Пар 1 - параллельность/Теорема о единственности ‖ прямых/Теорема о единственности ‖ прямых.md",
+    "Fedor_Rozhin/Математика/геометрия теория/Пар 1 - параллельность/Теорема о единственности ‖ прямых/Теорема 3.md",
+    "Fedor_Rozhin/Математика/геометрия теория/Пар 1 - параллельность/определение ║ плоскости и прямой/Теорема две ║ прямые и плоскость одной из них",
+    "Fedor_Rozhin/Математика/геометрия теория/Пар 1 - параллельность/определение ║ плоскости и прямой/определение ║ плоскости и прямой.md",
+    "Fedor_Rozhin/Математика/геометрия теория/Пар 1 - параллельность/определение ║ плоскости и прямой/определение║плоскостиипрямой.md",
+    "Fedor_Rozhin/Математика/геометрия теория/Пар 1 - параллельность/Лемма пересечении двух прямых и плоскости/Лемма пересечении двух ║ прямых и плоскости.md",
+    "Fedor_Rozhin/Математика/геометрия теория/Теорема о двух пересек плоскостях/Теорема2.md",
+    "Fedor_Rozhin/Математика/геометрия теория/Теорема о двух пересек плоскостях/Теорема2 уи.md",
+    "Fedor_Rozhin/Математика/геометрия теория/Пар 1 - параллельность/Параллельные прямые.md",
+    "Fedor_Rozhin/Математика/геометрия теория/Пар 1 - параллельность/Теорема о третьей прямой",
+    "Fedor_Rozhin/Математика/геометрия теория/Пар 1 - параллельность/Теорема о единственности ‖ прямых",
+    "Fedor_Rozhin/Математика/геометрия теория/Пар 1 - параллельность/Параллельные прямые текстик.md",
+    "Fedor_Rozhin/Математика/геометрия теория/Пар 1 - параллельность/определение ║ плоскости и прямой",
+    "Fedor_Rozhin/Математика/геометрия теория/Пар 1 - параллельность/Лемма пересечении двух прямых и плоскости",
+    "Fedor_Rozhin/Математика/геометрия теория/Теорема 1",
+    "Fedor_Rozhin/Математика/геометрия теория/Теорема о двух пересек плоскостях",
+    "Fedor_Rozhin/Математика/геометрия теория/Аксиома3.md",
+    "Fedor_Rozhin/Математика/геометрия теория/Аксиома2.md",
+    "Fedor_Rozhin/Математика/геометрия теория/Аксиома1.md",
+    "Fedor_Rozhin/Книги/Фёдор Михайлович Достоевский/Преступление и наказание/Чит. Преступление и наказание.md"
+  ]
+}
